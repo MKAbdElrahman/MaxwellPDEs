@@ -1,0 +1,13 @@
+name = "MaxwellPDEs"
+uuid = "31cc86da-4502-4610-8747-09eaa5cd6785"
+authors = ["Mohamed Kamal AbdElrahman"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
