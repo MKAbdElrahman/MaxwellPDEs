@@ -10,7 +10,7 @@ export PlaneWaveSource, ModeSource, UniformSource , GaussianBeamSource
 # Excitation Types
 export Harmonic, Gaussian
 # Boundary Conditions
-export Bloch,Periodic,PEC, PMC, PML, PMLStable , Absorber
+export Bloch,Periodic,PEC, PMC, PMLStable , Absorber
 # Symmetry Conditions
 export Even, Odd
 # Contains all data need to define a simulation

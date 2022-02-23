@@ -4,7 +4,6 @@ abstract type AbstractSource end
 include("./Sources/ExcitationTypes.jl")
 include("./Sources/UniformSource.jl")
 include("./Sources/PlaneWaveSource.jl")
-include("./Sources/ModeSource.jl")
 include("./Sources/GaussianBeamSource.jl")
 
 
